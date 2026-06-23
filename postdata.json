@@ -1,0 +1,94 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "image": "https://unsplash.com",
+      "likes": 124,
+      "comments": 18,
+      "share": 5,
+      "user": "sneaker_head",
+      "caption": "Fresh kicks for the weekend. Can never go wrong with classic red. 👟🔥 #Sneakers"
+    },
+    {
+      "id": 2,
+      "image": "https://unsplash.com",
+      "likes": 89,
+      "comments": 12,
+      "share": 3,
+      "user": "nature_pics",
+      "caption": "Nature never goes out of style. 🏔️🍃 #Wanderlust"
+    },
+    {
+      "id": 3,
+      "image": "https://unsplash.com",
+      "likes": 245,
+      "comments": 34,
+      "share": 12,
+      "user": "chef_marco",
+      "caption": "Brunch: the most important meal of the weekend. 🥑☕ #Foodie"
+    },
+    {
+      "id": 4,
+      "image": "https://unsplash.com",
+      "likes": 312,
+      "comments": 42,
+      "share": 22,
+      "user": "city_explorer",
+      "caption": "Golden hour hits different in the city. 🌆✨ #UrbanVibes"
+    },
+    {
+      "id": 5,
+      "image": "https://unsplash.com",
+      "likes": 56,
+      "comments": 7,
+      "share": 1,
+      "user": "cozy_reads",
+      "caption": "Sunday morning cozy mood. 📖☕ #CozyVibes"
+    },
+    {
+      "id": 6,
+      "image": "https://unsplash.com",
+      "likes": 178,
+      "comments": 21,
+      "share": 9,
+      "user": "daily_grind",
+      "caption": "Keep grinding. Your hard work will pay off. 💪🔥 #Motivation"
+    },
+    {
+      "id": 7,
+      "image": "https://unsplash.com",
+      "likes": 402,
+      "comments": 55,
+      "share": 31,
+      "user": "sunny_days",
+      "caption": "Just dynamic energy and clear skies today. ☀️🌻 #GoodVibes"
+    },
+    {
+      "id": 8,
+      "image": "https://unsplash.com",
+      "likes": 93,
+      "comments": 11,
+      "share": 4,
+      "user": "dev_clara",
+      "caption": "Desk setup check. Coding mode is officially turned on. 💻⌨️ #Tech"
+    },
+    {
+      "id": 9,
+      "image": "https://unsplash.com",
+      "likes": 150,
+      "comments": 19,
+      "share": 8,
+      "user": "healthy_bites",
+      "caption": "Fueling up with fresh, healthy greens today! 🥗🍓 #HealthyLiving"
+    },
+    {
+      "id": 10,
+      "image": "https://unsplash.com",
+      "likes": 289,
+      "comments": 38,
+      "share": 15,
+      "user": "road_tripper",
+      "caption": "Weekend road trip starts now. Next stop: anywhere. 🚗🗺️ #Adventure"
+    }
+  ]
+}
